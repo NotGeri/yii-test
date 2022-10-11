@@ -57,4 +57,4 @@ $reflect->invokeArgs($this, ['test1', 'test2']);
 }
 ```
 
-Sentry is set up [here]([here](https://github.com/NotGeri/yii-test/tree/master/protected/components/CustomSentry.php):)
+Sentry is set up [here](https://github.com/NotGeri/yii-test/tree/master/protected/components/CustomSentry.php)!

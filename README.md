@@ -4,10 +4,10 @@ This is to test an issue with Yii & Sentry, all credit goes to the original crea
 
 ---
 
----
-
 # 🙏 Update
 This was very quickly patched by the kind people over at Sentry: https://github.com/getsentry/sentry-php/pull/1401 & https://github.com/getsentry/sentry-php/releases/tag/3.9.1
+
+---
 
 # ✨ Replication Steps
 1. Clone the repository `git clone https://github.com/NotGeri/yii-test.git`

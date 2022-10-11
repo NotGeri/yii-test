@@ -1,0 +1,21 @@
+{
+    "name": "geri/yii-test",
+    "type": "project",
+    "config": {
+        "vendor-dir": "protected/vendor"
+    },
+    "autoload": {
+        "classmap": [
+            "protected/yii/yiit.php",
+            "protected/yii/YiiBase.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "NotGeri"
+        }
+    ],
+    "require": {
+        "sentry/sdk": "^3.2"
+    }
+}

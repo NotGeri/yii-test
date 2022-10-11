@@ -53,7 +53,7 @@ public function reflect($arg1, $arg2)
 public function actionSentry()
 {
     $reflect = new ReflectionMethod($this, 'reflect');
-$reflect->invokeArgs($this, ['test1', 'test2']);
+    $reflect->invokeArgs($this, ['test1', 'test2']);
 }
 ```
 
